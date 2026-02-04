@@ -1,0 +1,27 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Jupyter notebooks
+*.ipynb text eol=lf
+
+# Python files
+*.py text eol=lf
+
+# SQL files
+*.sql text eol=lf
+
+# Markdown files
+*.md text eol=lf
+
+# CSV files should not be modified
+*.csv binary
+
+# Model files
+*.joblib binary
+
+# Images
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.svg binary

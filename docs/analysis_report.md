@@ -389,9 +389,9 @@ Promising extensions include:
 ## References
 
 1. GH Archive. (2024). GitHub Archive. https://www.gharchive.org/
-2. Hoffa, F. (2023). Querying GitHub Archive with Snowflake: The Essentials. Medium.
-3. Borges, H., Hora, A., & Valente, M. T. (2016). Understanding the Factors that Impact the Popularity of GitHub Repositories. ICSME 2016.
-4. Lundberg, S. M., & Lee, S. I. (2017). A Unified Approach to Interpreting Model Predictions. NIPS 2017.
+2. [Hoffa, F. (2023). Querying GitHub Archive with Snowflake: The Essentials. Medium.](https://hoffa.medium.com/querying-github-archive-with-snowflake-the-essentials-c1f7715133d7)
+3. Borges, H., Hora, A., & Valente, M. T. (2016). Understanding the Factors that Impact the Popularity of GitHub Repositories. ICSME 2016. [pdf](https://arxiv.org/pdf/1606.04984)
+4. Lundberg, S. M., & Lee, S. I. (2017). A Unified Approach to Interpreting Model Predictions. NIPS 2017. [pdf](https://arxiv.org/pdf/1705.07874)
 
 ---
 

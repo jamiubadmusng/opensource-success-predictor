@@ -340,9 +340,9 @@ Success rates vary by programming language, with certain languages (Rust, TypeSc
 ## References
 
 1. GH Archive. (2024). *GitHub Archive*. Retrieved from https://www.gharchive.org/
-2. Hoffa, F. (2023). *Querying GitHub Archive with Snowflake: The Essentials*. Medium.
-3. Borges, H., et al. (2016). "Understanding the Factors that Impact the Popularity of GitHub Repositories." *ICSME 2016*.
-4. Cosentino, V., et al. (2017). "A Systematic Mapping Study of Software Development With GitHub." *IEEE Access*.
+2. Hoffa, F. (2023). *Querying GitHub Archive with Snowflake: The Essentials*. [Medium](https://hoffa.medium.com/querying-github-archive-with-snowflake-the-essentials-c1f7715133d7)
+3. Borges, H., et al. (2016). "Understanding the Factors that Impact the Popularity of GitHub Repositories." *ICSME 2016*. [pdf](https://arxiv.org/pdf/1606.04984)
+4. Cosentino, V., et al. (2017). "A Systematic Mapping Study of Software Development With GitHub." *IEEE Access*. [pdf](https://openaccess.uoc.edu/server/api/core/bitstreams/7d5eb8d6-43d0-4253-8b6f-5521fa70826b/content)
 
 ---
 
